@@ -1,8 +1,8 @@
 const showdown = require("showdown");
 const fs = require("fs");
 
-const style_css_str = fs.readFileSync("style.css", { encoding: "utf-8" });
-const index_md_str = fs.readFileSync("index.md", { encoding: "utf-8" });
+const markdown = fs.readFileSync("./src/index.md", { encoding: "utf-8" });
+const template = fs.readFileSync("./src/template.txt", { encoding: "utf-8" });
 
 const converter = new showdown.Converter({
   ghCompatibleHeaderId: true,
@@ -11,12 +11,6 @@ const converter = new showdown.Converter({
   tables: true,
 });
 
-const template = fs.readFileSync("template.txt", { encoding: "utf-8" });
-const htmlContent = converter.makeHtml(index_md_str);
+const html = template.replace("{{content}}", converter.makeHtml(markdown));
 
-const templateStr = template
-  .replace("{{title}}", "Reckless Labs")
-  .replace("{{content}}", htmlContent)
-  .replace("{{style}}", style_css_str);
-
-fs.writeFileSync("index.html", templateStr);
+fs.writeFileSync("./dist/index.html", html);
