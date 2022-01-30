@@ -30,3 +30,7 @@ We are passionate about a decentralized future, and open to invest in exciting p
 ## Contact
 
 Email: `team` at `recklesslabs.co` | Twitter: [reckless_labs](https://twitter.com/reckless_labs)
+
+## Open Source
+
+We're big fans of not just decentralization but also open-source, therefore this website's design mimics a `README.md` on Github. Of course, the code for this site can be found [here](https://github.com/recklesslabs/recklesslabs.co/).
