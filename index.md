@@ -29,4 +29,4 @@ We are passionate about a decentralized future, and open to invest in exciting p
 
 ## Contact
 
-Email: `team` at `recklesslabs.co` | Twitter: [`reckless_labs`](https://twitter.com/reckless_labs)
+Email: `team` at `recklesslabs.co` | Twitter: [reckless_labs](https://twitter.com/reckless_labs)
