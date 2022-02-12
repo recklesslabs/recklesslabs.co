@@ -22,4 +22,4 @@ team@recklesslabs.co | [@reckless_labs](https://twitter.com/reckless_labs)
 
 ## Open Source
 
-We're big fans of not just decentralization but also open-source, therefore this website's design mimics a `README.md` on Github. Of course, the code for this site can be found [here](https://github.com/recklesslabs/recklesslabs.co/).
+We're big fans of not just decentralization but also open-source, therefore this website's design mimics a [README.md](https://github.com/recklesslabs/recklesslabs.co/blob/main/src/index.md) on Github.
