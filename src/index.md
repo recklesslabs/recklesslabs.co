@@ -4,7 +4,9 @@ The lab was started by [derb](https://twitter.com/wickedderb) and [doob](https:/
 
 ## [Wicked Craniums](https://wickedcranium.com/)
 
-We discovered the world of NFT collectibles in April 2021 and built a (very passionate) community around the Wicked Craniums collection. Since our launch in June, we have been busy contributing back through various drops, collabs, and novel on-chain innovations like NFT-to-NFT staking.
+We discovered the world of NFT collectibles in April 2021 and built a (very passionate) community around the Wicked Craniums collection. Since our launch in June, we have been busy contributing back through various drops, collabs, and novel on-chain innovations like NFT-to-NFT staking. 
+
+With Wicked Craniums, we're working on multiple fronts: Metaverse, Alternative culture and Music, and a social platform called the [Cradle](https://wickedcraniumcradle.com/)
 
 ## Iota
 
